@@ -4,7 +4,7 @@ Generates a simulated compromised file system with nested directories
 and files with various extensions including .encrypted files.
 """
 
-import os
+import os 
 import random
 import shutil
 

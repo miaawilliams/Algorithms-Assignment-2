@@ -1,6 +1,6 @@
 # Assignment 2: Recursion Redesign
 
-## Setup Instructions
+## Setup Instructions 
 
 ### 1. Clone this repository
 
